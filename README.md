@@ -5,4 +5,6 @@ steps->
 
 npm init -y
 
+npm i
+
 run npm start
